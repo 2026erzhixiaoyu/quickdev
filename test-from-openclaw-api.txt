@@ -1,0 +1,4 @@
+这是通过 OpenClaw GitHub API 创建的测试文件
+创建时间：2026-04-19 14:59:08
+创建者：OpenClaw 助手
+用途：测试 GitHub API 写入权限
